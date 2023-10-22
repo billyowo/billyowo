@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dheeraj Charaungonath (@confusedcake)
+- 👋 Hi, I’m Dheeraj Charaungonath (@billyowo)
 - 👀 I’m interested in python and c++
 - 🌱 I’m a freshman at Birla Institute of Technology Mesra
 - 💞️ I’m looking to collaborate on interesting projects 
